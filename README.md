@@ -89,8 +89,3 @@ Simpan file gambar konsol di dalam folder `src/images/`. Berikut nama file yang 
 
 ---
 
-## Pengembang
-- **Nama**: [Masukkan nama Anda]
-- **Email**: [Masukkan email Anda]
-- **GitHub**: [Masukkan tautan GitHub Anda]
-
